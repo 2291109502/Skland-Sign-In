@@ -1,4 +1,4 @@
-name: Skland Sign In 2
+name: Skland Sign In 1
 
 on:
   workflow_dispatch:
